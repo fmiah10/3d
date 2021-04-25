@@ -1,0 +1,41 @@
+line
+100 250 0 144 356 0
+line
+144 356 0 250 400 0
+line
+250 400 0 356 356 0
+line
+356 356 0 400 250 0
+line
+400 250 0 365 144 0
+line
+356 144 0 250 100 0
+line
+250 100 0 144 144 0
+line
+144 144 0 100 250 0
+sphere
+100 250 0 50
+sphere
+250 100 0 50
+sphere
+400 250 0 50
+sphere
+250 400 0 50
+sphere
+356 356 0 50
+sphere
+144 356 0 50
+sphere
+356 144 0 50
+sphere
+144 144 0 50
+ident
+rotate
+x -20
+rotate
+y -20
+apply
+display
+save
+necklace.png
